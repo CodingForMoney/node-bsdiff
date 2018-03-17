@@ -1,5 +1,5 @@
 {
-  "name": "@lxm/node-bsdiff",
+  "name": "@luoxm/node-bsdiff",
   "version": "0.1.4",
   "description": "bsdiff port to node.js",
   "main": "index.js",
