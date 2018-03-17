@@ -1,5 +1,5 @@
 {
-  "name": "node-bsdiff",
+  "name": "@lxm/node-bsdiff",
   "version": "0.1.4",
   "description": "bsdiff port to node.js",
   "main": "index.js",
@@ -8,19 +8,19 @@
     "install": "node-gyp rebuild"
   },
   "gypfile": true,
-  "author": "tdzl2003",
+  "author": "lxm",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tdzl2003/node-bsdiff.git"
+    "url": "git+https://github.com/CodingForMoney/node-bsdiff.git"
   },
   "keywords": [
     "bsdiff"
   ],
   "bugs": {
-    "url": "https://github.com/tdzl2003/node-bsdiff/issues"
+    "url": "https://github.com/CodingForMoney/node-bsdiff/issues"
   },
-  "homepage": "https://github.com/tdzl2003/node-bsdiff#readme"
+  "homepage": "https://github.com/CodingForMoney/node-bsdiff#readme"
 }
