@@ -5,11 +5,11 @@
 #include <node.h>
 #include <node_buffer.h>
 
-#if __has_include(<memory>)
+//#if __has_include(<memory>)
 #include <memory>
-#else
-#include <cmemory>
-#endif
+//#else
+//#include <cmemory>
+//#endif
 //#include <cmemory>
 #include <cstdlib>
 
